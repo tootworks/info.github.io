@@ -11,3 +11,4 @@ Toot Works is:
 ## Projects
 * [Translator](https://christopher.su/projects/translator/)
 * [PongBot](https://toot.works/@pongbot)
+* [Bot Directory](/bots/)
